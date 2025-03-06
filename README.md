@@ -12,7 +12,7 @@ Typical installation time: 3m
 Tested with Python 3.11. Requirements file attached in GitHub for local installation.
 
 **Demo Run Instructions:**
-1. Upload the .cif files and the .txt files to the same directory in Google Drive.
+1. Look for the demo data_files at [link](link_to_files) and upload the .cif files and the .txt files to the same directory in Google Drive.
 2. Run section #1 to install dependencies includes the installation of relevant programs, and the loading and execution of all functions required for the analysis.
 3. Specify the run type in section #2. Namely, where the data is located (the folder in Google Drive), whether the calibration should be made by the beads or the cells, etc. Please make sure to check the convert_cif_to_tif parameter and the create_calibration_map parameter for this demo.
 4. Run section #3 to generate the tif files of the data files. At the end of this step, a directory with the name of each cif file should be created in the specified data_path. Additionally, each directory will contain two tif files - one for each recording channel.
