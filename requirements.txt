@@ -1,0 +1,13 @@
+python-bioformats==4.1.0
+python-javabridge==4.0.4
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.10.0
+h5py==3.12.1
+tifffile==2025.2.18
+scikit-image==0.25.2
+scikit-learn==1.6.1
+tqdm==4.67.1
+ipython==7.34.0
+pillow==11.1.0
+pandas==2.2.2
